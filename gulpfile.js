@@ -127,7 +127,7 @@ gulp.task('serve', ['scripts', 'cssNano', 'inject'], function(){
 });
 
 // Build
-gulp.task('default', ['lint', 'scripts', 'sass', 'concatCss', 'cssNano', 'inject']);
+gulp.task('build', ['lint', 'scripts', 'sass', 'concatCss', 'cssNano', 'inject']);
 
 // Default Task
 gulp.task('default', ['lint', 'scripts', 'sass', 'concatCss', 'cssNano', 'inject', 'serve']);
