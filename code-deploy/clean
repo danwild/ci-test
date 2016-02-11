@@ -1,4 +1,4 @@
 #!/bin/bash
-rm -r -f app/
+rm -r -f /home/ec2user/app
 
 
