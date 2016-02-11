@@ -2,9 +2,12 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user
+    destination: /home/ec2-user/app
 hooks:
   BeforeInstall:
+  - location: code-deploy/clean
+      timeout: 300
+      runas: root
     - location: code-deploy/install_dependencies
       timeout: 300
       runas: root
