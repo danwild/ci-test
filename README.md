@@ -1,5 +1,6 @@
 # ci test ![Build Status](http://ci.nawth.io:8080/buildStatus/icon?job=NodeWorking)
 
+
 This project is generated with [yo angular-typescript-gulp] (https://github.com/danwild/generator-angular-typescript)
 generator, for use in testing CI/CD pipeline.
 
