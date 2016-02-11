@@ -1,6 +1,3 @@
 #!/bin/bash
-
-
-
-#forever stop /home/ec2-user/server.js
+forever stop /home/ec2-user/server.js
 
