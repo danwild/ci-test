@@ -1,3 +1,4 @@
 #!/bin/bash
-forever start /home/ec2-user/app/server.js
+cd /home/ec2-user/app
+forever start server.js
 
