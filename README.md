@@ -1,4 +1,4 @@
-# ci test ![Build Status](http://ci.nawth.io:8080/buildStatus/icon?job=NodeWorking&build=1)
+# ci test ![Build Status](http://ci.nawth.io:8080/job/NodeWorking/badge/icon)
 
 This project is generated with [yo angular-typescript-gulp] (https://github.com/danwild/generator-angular-typescript)
 generator, for use in testing CI/CD pipeline.
@@ -9,7 +9,6 @@ generator, for use in testing CI/CD pipeline.
 tsd install
 gulp
 ```
-
 
 The default task has a nodemon watching for changes.<br/>
 To just run server: `gulp serve`<br/>
