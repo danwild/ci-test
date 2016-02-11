@@ -1,4 +1,4 @@
-# ci test ![Build Status](http://jenkins.nawth.io:8080/buildStatus/icon?job=CI Test&build=1)
+# ci test ![Build Status](http://ci.nawth.io:8080/job/NodeCodeDeploy/3//badge/icon)
 
 This project is generated with [yo angular-typescript-gulp] (https://github.com/danwild/generator-angular-typescript)
 generator, for use in testing CI/CD pipeline.
