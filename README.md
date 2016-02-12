@@ -1,15 +1,10 @@
 # ci test ![Build Status](http://ci.nawth.io:8080/buildStatus/icon?job=NodeWorking)
 
+For use in testing CI/CD pipeline with GitHub + Jenkins + AWS CodeDeploy.
 
 This project is generated with [yo angular-typescript-gulp] (https://github.com/danwild/generator-angular-typescript)
-generator, for use in testing CI/CD pipeline.
+generator.
 
-## Install, Build, Run
-
-```bash
-tsd install
-gulp
-```
 
 The default task has a nodemon watching for changes.<br/>
 To just run server: `gulp serve`<br/>
