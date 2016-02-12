@@ -1,4 +1,4 @@
-# ci test ![Build Status](http://jenkins.nawth.io:8080/buildStatus/icon?job=CDProject)
+# ci test ![Build Status](http://jenkins.nawth.io:8080/job/CDProject/badge/icon)
 
 For use in testing CI/CD pipeline with GitHub + Jenkins + AWS CodeDeploy.
 
